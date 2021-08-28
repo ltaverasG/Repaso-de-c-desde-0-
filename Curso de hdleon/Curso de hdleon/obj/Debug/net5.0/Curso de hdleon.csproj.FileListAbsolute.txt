@@ -1,0 +1,16 @@
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\bin\Debug\net5.0\Curso de hdleon.exe
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\bin\Debug\net5.0\Curso de hdleon.deps.json
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\bin\Debug\net5.0\Curso de hdleon.runtimeconfig.json
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\bin\Debug\net5.0\Curso de hdleon.runtimeconfig.dev.json
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\bin\Debug\net5.0\Curso de hdleon.dll
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\bin\Debug\net5.0\ref\Curso de hdleon.dll
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\bin\Debug\net5.0\Curso de hdleon.pdb
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\obj\Debug\net5.0\Curso de hdleon.csprojAssemblyReference.cache
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\obj\Debug\net5.0\Curso de hdleon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\obj\Debug\net5.0\Curso de hdleon.AssemblyInfoInputs.cache
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\obj\Debug\net5.0\Curso de hdleon.AssemblyInfo.cs
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\obj\Debug\net5.0\Curso de hdleon.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\obj\Debug\net5.0\Curso de hdleon.dll
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\obj\Debug\net5.0\ref\Curso de hdleon.dll
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\obj\Debug\net5.0\Curso de hdleon.pdb
+C:\Users\Joseluis\Documents\Repaso c# desde 0\Curso de hdleon\Curso de hdleon\obj\Debug\net5.0\Curso de hdleon.genruntimeconfig.cache
