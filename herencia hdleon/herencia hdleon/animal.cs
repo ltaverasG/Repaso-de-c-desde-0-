@@ -10,5 +10,10 @@ namespace herencia_hdleon
     {
         public string Nombre { get; set; }
 
+        public virtual string GetNombre()
+        {
+            return Nombre;
+        }
+
     }
 }

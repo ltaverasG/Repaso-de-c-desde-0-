@@ -11,6 +11,11 @@ namespace herencia_hdleon
         public string ColorPelo { get; set; }
         private int velocidadDefecto = 20;
 
+        public override string GetNombre()
+        {
+            return "Soy un leon llamado: " + Nombre;
+        }
+
         public leon()
         {
             this.Nombre = "leon";
@@ -32,6 +37,10 @@ namespace herencia_hdleon
         public void correr(int velocidad , string detalle)
         {
             Console.WriteLine("Corriendo" + velocidad + "" + detalle);
+        }
+        public void correr(string detalle)
+        {
+            Console.WriteLine(detalle);
         }
     }
 }

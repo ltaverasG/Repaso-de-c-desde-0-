@@ -8,21 +8,9 @@ namespace herencia_hdleon
         {
 
             leon leon = new leon();
-            leon.Nombre = "Simba";
+
+            Console.WriteLine(leon.GetNombre());
             
-            leon.ColorPelo = "marron";
-
-            buitre buitre = new buitre();
-            buitre.Nombre = "Condoriano";
-            buitre.colorPlumas = "negro";         
-
-            Console.WriteLine(leon.Nombre);
-            Console.WriteLine(leon.ColorPelo);
-            leon.correr(30, "enojado");
-
-            Console.WriteLine(buitre.Nombre);
-            Console.WriteLine(buitre.colorPlumas);
-            buitre.vuelo();
 
         }
     }
